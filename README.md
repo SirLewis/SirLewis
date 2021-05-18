@@ -7,9 +7,9 @@ I’m currently learning Angular to improve my front-end skills.
 
 ## Projects
 
-The vast majority of the projects you'll find on my profile are from my school projects, at CPE Lyon.
+The projects you'll find on my profile are mainly school projects, from CPE Lyon.
 
-You can also see my contribution to other school projects like : 
+You can see my main contributions here : 
 
 - https://github.com/saya-rbt/firecloud-monitor : A city scale fire management system.
 - https://github.com/saya-rbt/simple-image-recommender : An image recommendation system using data mining.
